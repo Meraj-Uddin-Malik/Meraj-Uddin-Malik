@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Meraj Uddin Malik</h1>
-<h3 align="center">💻 Passionate Front End Developer | JavaScript Enthusiast</h3>
-
----
-
 <!-- 🔥 Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Meraj-Uddin-Malik/Meraj-Uddin-Malik/main/GIT.jpg" alt="GitHub Banner" width="100%"/>
