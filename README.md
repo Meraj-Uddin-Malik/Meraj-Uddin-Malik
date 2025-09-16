@@ -12,13 +12,6 @@
   </a>
 </p>
 
-<!-- 🏆 Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=meraj-uddin-malik&theme=radical&row=1&column=7" alt="trophies"/>
-  </a>
-</p>
-
 ---
 
 ### 🔭 Current Work
