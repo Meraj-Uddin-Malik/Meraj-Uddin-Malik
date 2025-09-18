@@ -67,13 +67,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meraj-uddin-malik&show_icons=true&theme=radical&cache_seconds=60" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meraj-uddin-malik&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=meraj-uddin-malik&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meraj-uddin-malik&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="180"/>
 </p>
+
 
 ---
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=meraj-uddin-malik&theme=radical&hide_border=true&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=meraj-uddin-malik&theme=radical&hide_border=true&date_format=M%20j%5B,%20Y%5D&card_width=500" height="180"/>
 </p>
+
