@@ -73,9 +73,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=meraj-uddin-malik&show_icons=true&locale=en" alt="GitHub Stats" height="180"/>
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=meraj-uddin-malik&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
-</p>
 
 
 
