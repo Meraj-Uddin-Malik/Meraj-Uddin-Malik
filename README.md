@@ -21,7 +21,8 @@
 ### 🌱 Currently Learning
 - Modern **React & NextJS**  
 - Full **MERN Stack Development**  
-- Advanced **Frontend Animations & UI/UX**  
+- Advanced **Frontend Animations & UI/UX**
+- Figma **UI UX Designer** 
 
 ### 💬 Ask Me About
 - **JavaScript**, frameworks, and frontend best practices  
