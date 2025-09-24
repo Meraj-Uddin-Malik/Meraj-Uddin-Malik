@@ -75,9 +75,9 @@
 
 
 ---
-
 ### 🔥 GitHub Streak
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=meraj-uddin-malik&theme=default&hide_border=true&date_format=M%20j%5B,%20Y%5D&card_width=500" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Meraj-Uddin-Malik&theme=default&hide_border=true&date_format=M%20j%5B,%20Y%5D&card_width=500" alt="GitHub Streak" />
 </p>
+
 
