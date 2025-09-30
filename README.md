@@ -1,5 +1,4 @@
-<!-- 🔥 Banner --> 
-<!-- 🔥 Banner --> 
+<!-- 🔥 Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Meraj-Uddin-Malik/Meraj-Uddin-Malik/main/GIT.jpg" alt="GitHub Banner" width="100%"/>
 </p>
