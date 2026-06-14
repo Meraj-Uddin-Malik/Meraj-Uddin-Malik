@@ -27,25 +27,31 @@
 
 <br/>
 
-<table align="center" width="100%">
-<tr>
-<td width="55%" valign="top">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"/>
+
+### 👨‍💻 Who Am I?
+
+A passionate **Full-Stack Developer** from Pakistan who loves turning ideas into beautiful, functional web experiences.
+
+### 🔥 What I'm Up To
 
 - 🔭 Building **[Complete JavaScript Projects](https://github.com/Meraj-Uddin-Malik/Complete-JavaScript)**
 - 🌱 Mastering **React**, **Next.js** & **TypeScript**
-- 💡 Passionate about **UI/UX**, **Animations** & clean code
+- 💡 Exploring **UI Animations**, **UX Design** & scalable architecture
 - 🚀 Open to **Freelance**, **Collabs** & **Full-time Roles**
-- 💬 Ask me about **JavaScript**, **MERN Stack** & **Frontend**
-- 📫 **merajuddin618@gmail.com**
+
+### 💬 Let's Talk About
+
+- **JavaScript / TypeScript** & modern frameworks
+- **MERN Stack** architecture & REST APIs
+- **Frontend performance** & responsive design
+
+### 📫 Reach Me
+
+- ✉️ **merajuddin618@gmail.com**
 - ⚡ Fun fact: *I think in components!*
 
-</td>
-<td width="45%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="Coding GIF"/>
-</td>
-</tr>
-</table>
-
+<br clear="right"/>
 <br/>
 
 <!-- ═══════════════ CONNECT ═══════════════ -->
